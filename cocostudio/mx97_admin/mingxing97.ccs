@@ -1,0 +1,65 @@
+<Solution>
+  <PropertyGroup Name="mingxing97" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="admin">
+          <Image Name="ad_btn_cx.png" />
+          <Image Name="ad_btn_sz.png" />
+          <Image Name="ad_dj3.png" />
+          <Image Name="ad_kc2.png" />
+          <Image Name="ad_qz1.png" />
+          <Project Name="AdminLayer.csd" Type="Layer" />
+          <Project Name="DajiangLayer.csd" Type="Layer" />
+          <Project Name="KucqjLayer.csd" Type="Layer" />
+          <Project Name="KucunLayer.csd" Type="Layer" />
+          <Project Name="QuanzhongLayer.csd" Type="Layer" />
+        </Folder>
+        <Folder Name="fonts">
+          <TTF Name="yuanti_sc_light.ttf" />
+        </Folder>
+        <File Name="ActionTimelineEase.csb" />
+        <Image Name="base_agree.png" />
+        <Image Name="base_agree2.png" />
+        <Image Name="base_bean.png" />
+        <Image Name="base_bg1.jpg" />
+        <Image Name="base_bg2.jpg" />
+        <Image Name="base_bg9.png" />
+        <Image Name="base_cancel1.png" />
+        <Image Name="base_cancel2.png" />
+        <Image Name="base_close.png" />
+        <Image Name="base_coin.png" />
+        <Image Name="base_crown.png" />
+        <Image Name="base_fangka.png" />
+        <Image Name="base_frame.png" />
+        <Image Name="base_headdefault.png" />
+        <Image Name="base_headframe.png" />
+        <Image Name="base_innerbg.png" />
+        <Image Name="base_innerbg_light_9.png" />
+        <Image Name="base_innerbg2.png" />
+        <Image Name="base_innerbg9.png" />
+        <Image Name="base_input.png" />
+        <Image Name="base_light.png" />
+        <Image Name="base_logo.png" />
+        <Image Name="base_ok1.png" />
+        <Image Name="base_ok2.png" />
+        <Image Name="base_outbg.png" />
+        <Image Name="base_redhint.png" />
+        <Image Name="base_reject.png" />
+        <Image Name="base_return.png" />
+        <Image Name="base_syshint.png" />
+        <Image Name="base_thumb_0.png" />
+        <Image Name="base_thumb_1.png" />
+        <Image Name="base_titlebg.png" />
+        <Image Name="base_toast.png" />
+        <Image Name="base_wait_frame_0.png" />
+        <Image Name="base_wait_frame_2.png" />
+        <Image Name="base_wait_frame_3.png" />
+        <Image Name="base_waitround.png" />
+        <Image Name="base_yuanbao.png" />
+        <Image Name="base_zuobi.png" />
+        <Image Name="blank.png" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

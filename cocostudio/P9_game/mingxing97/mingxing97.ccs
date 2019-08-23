@@ -1,0 +1,194 @@
+<Solution>
+  <PropertyGroup Name="mingxing97" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="fonts">
+          <TTF Name="yuanti_sc_light.ttf" />
+        </Folder>
+        <Folder Name="game">
+          <Folder Name="cliper">
+            <Image Name="c_arrow.png" />
+            <Image Name="c_block_1.png" />
+            <Image Name="c_block_2.png" />
+            <Image Name="c_block_3.png" />
+            <Image Name="c_block_4.png" />
+            <Image Name="c_block_5.png" />
+            <Image Name="c_block_6.png" />
+            <Image Name="c_block_7.png" />
+            <Image Name="c_block_8.png" />
+            <Image Name="c_block_9.png" />
+            <Image Name="colors.png" />
+            <Image Name="shuiguoshan0.png" />
+            <Image Name="shuiguoshan1.png" />
+            <Image Name="shuiguoshan2.png" />
+            <Image Name="shuiguoshan3.png" />
+            <Image Name="shuiguoshan4.png" />
+            <Image Name="shuiguoshan5.png" />
+            <Image Name="shuiguoshan6.png" />
+            <Image Name="shuiguoshan7.png" />
+            <Image Name="shuiguoshan8.png" />
+          </Folder>
+          <Folder Name="line">
+            <Image Name="l_mid.png" />
+            <Image Name="l_xie1.png" />
+            <Image Name="l_xie2.png" />
+            <Image Name="l_xie3.png" />
+          </Folder>
+          <Folder Name="sptag">
+            <Image Name="sptag2_1.png" />
+            <Image Name="sptag2_2.png" />
+            <Image Name="sptag2_3.png" />
+            <Image Name="sptag2_4.png" />
+            <Image Name="sptag2_5.png" />
+            <Image Name="sptag2_6.png" />
+            <Image Name="sptag2_7.png" />
+            <Image Name="sptag2_8.png" />
+            <Image Name="sptag2_9.png" />
+            <Image Name="sptag3_1.png" />
+            <Image Name="sptag3_2.png" />
+            <Image Name="sptag3_3.png" />
+            <Image Name="sptag3_4.png" />
+            <Image Name="sptag3_5.png" />
+            <Image Name="sptag3_6.png" />
+            <Image Name="sptag3_7.png" />
+            <Image Name="sptag3_8.png" />
+            <Image Name="sptag3_9.png" />
+            <Image Name="sptag4_1.png" />
+            <Image Name="sptag4_2.png" />
+            <Image Name="sptag4_3.png" />
+            <Image Name="sptag4_4.png" />
+            <Image Name="sptag4_5.png" />
+            <Image Name="sptag4_6.png" />
+            <Image Name="sptag4_7.png" />
+            <Image Name="sptag4_8.png" />
+            <Image Name="sptag4_9.png" />
+          </Folder>
+          <Folder Name="tag">
+            <Image Name="tag_0.png" />
+            <Image Name="tag_1.png" />
+            <Image Name="tag_2.png" />
+            <Image Name="tag_3.png" />
+            <Image Name="tag_4.png" />
+            <Image Name="tag_5.png" />
+            <Image Name="tag_6.png" />
+            <Image Name="tag_7.png" />
+            <Image Name="tag_8.png" />
+          </Folder>
+          <Folder Name="zimu">
+            <Image Name="z_all.png" />
+            <Image Name="z_bet.png" />
+            <Image Name="z_fruits.png" />
+            <Image Name="z_gameover.png" />
+            <Image Name="z_insert.png" />
+            <Image Name="z_start.png" />
+            <Image Name="z_win.png" />
+          </Folder>
+          <Image Name="atlas_num.png" />
+          <Image Name="digit_num.png" />
+          <Image Name="digit_num2.png" />
+          <Image Name="digit_num3.png" />
+          <Image Name="digit_num4.png" />
+          <Image Name="digit_x.png" />
+          <Image Name="g_add1.png" />
+          <Image Name="g_add2.png" />
+          <Image Name="g_add3.png" />
+          <Image Name="g_auto1.png" />
+          <Image Name="g_auto2.png" />
+          <Image Name="g_auto3.png" />
+          <Image Name="g_awardpanel.png" />
+          <Image Name="g_bet1.png" />
+          <Image Name="g_bet2.png" />
+          <Image Name="g_bet3.png" />
+          <Image Name="g_bg.png" />
+          <Image Name="g_broadcast.png" />
+          <Image Name="g_cancel1.png" />
+          <Image Name="g_cancel2.png" />
+          <Image Name="g_cancel3.png" />
+          <Image Name="g_checkjp1.png" />
+          <Image Name="g_checkjp2.png" />
+          <Image Name="g_checkjp3.png" />
+          <Image Name="g_close1.png" />
+          <Image Name="g_close2.png" />
+          <Image Name="g_close3.png" />
+          <Image Name="g_moment1.png" />
+          <Image Name="g_moment2.png" />
+          <Image Name="g_moment3.png" />
+          <Image Name="g_return.png" />
+          <Image Name="g_roll.png" />
+          <Image Name="g_roll_light1.png" />
+          <Image Name="g_roll_light2.png" />
+          <Image Name="g_sharetitle.png" />
+          <Image Name="g_sound1.png" />
+          <Image Name="g_sound3.png" />
+          <Image Name="g_speed1.png" />
+          <Image Name="g_speed2.png" />
+          <Image Name="g_speed3.png" />
+          <Image Name="g_start1.png" />
+          <Image Name="g_start2.png" />
+          <Image Name="g_start3.png" />
+          <Image Name="g_stop1.png" />
+          <Image Name="g_stop2.png" />
+          <Image Name="g_stop3.png" />
+          <Image Name="g_tiao1.png" />
+          <Image Name="g_tiao2.png" />
+          <Image Name="g_tiaobtn1.png" />
+          <Image Name="g_tiaobtn2.png" />
+          <Image Name="g_tiaobtn3.png" />
+          <Project Name="GameScene.csd" Type="Scene" />
+          <Project Name="node_awardpanel.csd" Type="Node" />
+          <Project Name="node_shareaward.csd" Type="Node" />
+          <Project Name="TagLayer.csd" Type="Layer" />
+        </Folder>
+        <Folder Name="gameroomlist">
+          <Image Name="g_bg.jpg" />
+          <Image Name="g_downqr.jpg" />
+          <Image Name="g_return.png" />
+          <Image Name="g_room1.png" />
+          <Image Name="g_room2.png" />
+          <Project Name="GameRoomListLayer.csd" Type="Layer" />
+        </Folder>
+        <Image Name="base_agree.png" />
+        <Image Name="base_agree2.png" />
+        <Image Name="base_bean.png" />
+        <Image Name="base_bg1.jpg" />
+        <Image Name="base_bg2.jpg" />
+        <Image Name="base_bg9.png" />
+        <Image Name="base_cancel1.png" />
+        <Image Name="base_cancel2.png" />
+        <Image Name="base_close.png" />
+        <Image Name="base_coin.png" />
+        <Image Name="base_crown.png" />
+        <Image Name="base_fangka.png" />
+        <Image Name="base_frame.png" />
+        <Image Name="base_headdefault.png" />
+        <Image Name="base_headframe.png" />
+        <Image Name="base_innerbg.png" />
+        <Image Name="base_innerbg_light_9.png" />
+        <Image Name="base_innerbg2.png" />
+        <Image Name="base_innerbg9.png" />
+        <Image Name="base_input.png" />
+        <Image Name="base_light.png" />
+        <Image Name="base_logo.png" />
+        <Image Name="base_ok1.png" />
+        <Image Name="base_ok2.png" />
+        <Image Name="base_outbg.png" />
+        <Image Name="base_redhint.png" />
+        <Image Name="base_reject.png" />
+        <Image Name="base_return.png" />
+        <Image Name="base_syshint.png" />
+        <Image Name="base_thumb_0.png" />
+        <Image Name="base_thumb_1.png" />
+        <Image Name="base_titlebg.png" />
+        <Image Name="base_toast.png" />
+        <Image Name="base_wait_frame_0.png" />
+        <Image Name="base_wait_frame_2.png" />
+        <Image Name="base_wait_frame_3.png" />
+        <Image Name="base_waitround.png" />
+        <Image Name="base_yuanbao.png" />
+        <Image Name="base_zuobi.png" />
+        <Image Name="blank.png" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

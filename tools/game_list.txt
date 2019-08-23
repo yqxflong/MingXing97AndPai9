@@ -1,0 +1,2 @@
+[name:游戏中文名, des:md5路径(用于生成md5版本文件), ori:源路径(用于拷贝), zipped:是否添加到压缩列表， folder:目录(用于压缩指定游戏)， primode:是否有私人房]
+name=明星97,des=E:\proj_mingxing97\proj\client\Debug\game\mingxing97,ori=E:\proj_mingxing97\proj\client\Debug\game\mingxing97,folder=mingxing97,zipped=0,primode=1

@@ -1,0 +1,118 @@
+<Solution>
+  <PropertyGroup Name="studio" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="baoxian">
+          <Image Name="b_bank1.png" />
+          <Image Name="b_bank2.png" />
+          <Image Name="b_bg.png" />
+          <Image Name="b_category_l.png" />
+          <Image Name="b_category1.png" />
+          <Image Name="b_category2.png" />
+          <Image Name="b_coinsend1.png" />
+          <Image Name="b_coinsend2.png" />
+          <Image Name="b_edit1.png" />
+          <Image Name="b_edit2.png" />
+          <Image Name="b_load.png" />
+          <Image Name="b_save.png" />
+          <Image Name="b_sure.png" />
+          <Image Name="b_suresend.png" />
+          <Project Name="cell_record.csd" Type="Layer" />
+          <Project Name="GameBaoXianLayer.csd" Type="Layer" />
+          <Project Name="layer_bank.csd" Type="Layer" />
+          <Project Name="layer_editpwd.csd" Type="Layer" />
+          <Project Name="layer_record.csd" Type="Layer" />
+          <Project Name="layer_sendcoin.csd" Type="Layer" />
+        </Folder>
+        <Folder Name="clientscene">
+          <Image Name="c_baoxian.png" />
+          <Image Name="c_doudizhu.png" />
+          <Image Name="c_feiqin.png" />
+          <Image Name="c_kefu.png" />
+          <Image Name="c_mx97.png" />
+          <Image Name="c_setting.png" />
+          <Image Name="c_share.png" />
+          <Project Name="ClientScene.csd" Type="Layer" />
+          <Image Name="g_broadcast.png" />
+          <Project Name="GameUpdateMask.csd" Type="Layer" />
+          <Project Name="node_rankingplayer.csd" Type="Node" />
+        </Folder>
+        <Folder Name="fonts">
+          <TTF Name="yuanti_sc_light.ttf" />
+        </Folder>
+        <Folder Name="login">
+          <Image Name="l_account.png" />
+          <Image Name="l_forget.png" />
+          <Image Name="l_ps.png" />
+          <Image Name="l_recordpwd.png" />
+          <Image Name="l_register.png" />
+          <Image Name="l_title.png" />
+          <Image Name="l_wechat.png" />
+          <Project Name="LogonView.csd" Type="Layer" />
+          <Image Name="re_bg.png" />
+          <Image Name="re_btn.png" />
+          <Project Name="RegisterView.csd" Type="Layer" />
+        </Folder>
+        <Folder Name="qrcode">
+          <Image Name="q_qr.jpg" />
+          <Project Name="QrLayer.csd" Type="Layer" />
+        </Folder>
+        <Folder Name="setting">
+          <Project Name="GameSettingLayer.csd" Type="Layer" />
+          <Image Name="s_bg.png" />
+          <Image Name="s_ok.png" />
+          <Image Name="s_switch.png" />
+        </Folder>
+        <Folder Name="share">
+          <Project Name="GameShareLayer.csd" Type="Layer" />
+          <Image Name="s_moment.png" />
+          <Image Name="s_title.png" />
+          <Image Name="s_wechat.png" />
+        </Folder>
+        <Image Name="base_agree.png" />
+        <Image Name="base_agree2.png" />
+        <Image Name="base_bean.png" />
+        <Image Name="base_bg1.jpg" />
+        <Image Name="base_bg2.jpg" />
+        <Image Name="base_bg9.png" />
+        <Image Name="base_cancel1.png" />
+        <Image Name="base_cancel2.png" />
+        <Image Name="base_close.png" />
+        <Image Name="base_coin.png" />
+        <Image Name="base_crown.png" />
+        <Image Name="base_fangka.png" />
+        <Image Name="base_frame.png" />
+        <Image Name="base_gou.png" />
+        <Image Name="base_headdefault.png" />
+        <Image Name="base_headframe.png" />
+        <Image Name="base_innerbg.png" />
+        <Image Name="base_innerbg_light_9.png" />
+        <Image Name="base_innerbg2.png" />
+        <Image Name="base_innerbg9.png" />
+        <Image Name="base_input.png" />
+        <Image Name="base_kuang.png" />
+        <Image Name="base_light.png" />
+        <Image Name="base_logo.png" />
+        <Image Name="base_ok1.png" />
+        <Image Name="base_ok2.png" />
+        <Image Name="base_outbg.png" />
+        <Image Name="base_redhint.png" />
+        <Image Name="base_reject.png" />
+        <Image Name="base_return.png" />
+        <Image Name="base_syshint.png" />
+        <Image Name="base_thumb_0.png" />
+        <Image Name="base_thumb_1.png" />
+        <Image Name="base_titlebg.png" />
+        <Image Name="base_toast.png" />
+        <Image Name="base_wait_frame_0.png" />
+        <Image Name="base_wait_frame_2.png" />
+        <Image Name="base_wait_frame_3.png" />
+        <Image Name="base_waitround.png" />
+        <Image Name="base_yuanbao.png" />
+        <Image Name="base_zuobi.png" />
+        <Image Name="blank.png" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
